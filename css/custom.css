@@ -1,0 +1,26 @@
+/* Custom css */
+
+body{
+	font-family: 'Roboto', sans-serif;
+}
+
+.navbar-brand {
+	text-transform: uppercase;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 900;
+	letter-spacing: 1px;
+}
+
+.btn-outline-success {
+    color: #FF6327;
+    background-color: transparent;
+    background-image: none;
+    border-color: #FF6327;
+}
+
+.btn-outline-success:hover {
+    color: #FFFFFF;
+    background-color: #FF6327;
+    background-image: none;
+    border-color: #FF6327;
+}
