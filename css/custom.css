@@ -7,20 +7,56 @@ body{
 .navbar-brand {
 	text-transform: uppercase;
 	font-family: 'Roboto', sans-serif;
-	font-weight: 900;
+	font-weight: 700;
 	letter-spacing: 1px;
 }
 
 .btn-outline-success {
-    color: #FF6327;
-    background-color: transparent;
+    color: #333333;
+    background-color: #F7F7F7;
     background-image: none;
-    border-color: #FF6327;
+    border-color: #333333;
 }
 
 .btn-outline-success:hover {
     color: #FFFFFF;
-    background-color: #FF6327;
+    background-color: #333333;
     background-image: none;
-    border-color: #FF6327;
+    border-color: #333333;
+}
+
+/* Intro */
+
+.intro-block{
+	margin-top: 3.5rem;
+	padding-bottom: 2rem;
+	color: #333333;
+}
+
+.intro-brand{
+	font-weight: 700;
+	font-size: 3rem;
+	background-color: #F7F7F7;
+	color: #333333;
+	letter-spacing: 1px;
+}
+
+/* Intro description */
+
+.content{
+	background-color: #FAFAFA;
+	padding-top: 2rem;
+	padding-bottom: 2rem;
+	font-family: 'IBM Plex Sans', sans-serif;
+	color: #6B757C;
+}
+
+.intro-desc{
+	font-family: 'IBM Plex Sans', sans-serif;
+	padding-bottom: 2rem;
+	font-weight: 300;
+}
+
+.heading-desc{
+	padding-top: 1rem;
 }
