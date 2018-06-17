@@ -60,3 +60,33 @@ body{
 .heading-desc{
 	padding-top: 1rem;
 }
+
+/* Links */
+
+a{
+	color: #FF6327;
+}
+
+a:hover{
+	color: #FF6327;
+}
+
+/* Card */
+
+.post-home{
+	padding-top: 2rem;
+}
+
+.card{
+	border-color: transparent;
+}
+
+.card-body{
+	padding-left: 0px;
+}
+
+/* Custom background */
+
+.graybackground{
+	background-color: #FAFAFA;
+}
