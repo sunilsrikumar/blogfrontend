@@ -90,3 +90,44 @@ a:hover{
 .graybackground{
 	background-color: #FAFAFA;
 }
+
+/* Blog page */
+
+.display-4{
+	font-size: 1.4rem;
+	font-weight: 500;
+}
+
+.blog-title{
+	font-size: 1.20rem;
+	text-decoration: none !important;
+}
+
+.blog-date{
+	color: #BDBDBD;
+}
+.blog-title:focus{
+	font-size: 1.20rem;
+	text-decoration: none !important;
+}
+
+.blog-row{
+	padding-bottom: 2rem;
+}
+
+/* Pagination */
+
+.pagination-block{
+	padding-top: 2rem;
+	padding-bottom: 1rem;
+}
+
+.page-link{
+	color: #FF6327;
+}
+
+.page-link:hover{
+	color: #FF6327;
+}
+
+
