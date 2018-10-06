@@ -142,10 +142,24 @@ a:hover{
 	font-size: 1.14rem;
 }
 
+.work-card{
+	padding-top: 1.5rem;
+	padding-bottom: 1.5rem;
+}
+
 .card-body {
     padding-left: 10px;
 }
 
 .card:hover {
-    background-color: #E9ECEF;
+    background-color: #FAFAFA;
+}
+
+.aiinsights-block{
+	text-align: center;
+	font-family: 'IBM Plex Sans', sans-serif;
+}
+
+.padding-bottom{
+	padding-bottom: 2rem;
 }
