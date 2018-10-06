@@ -141,3 +141,11 @@ a:hover{
 	font-family: 'IBM Plex Sans', sans-serif;
 	font-size: 1.14rem;
 }
+
+.card-body {
+    padding-left: 10px;
+}
+
+.card:hover {
+    background-color: #E9ECEF;
+}
