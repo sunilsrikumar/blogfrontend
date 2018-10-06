@@ -130,4 +130,14 @@ a:hover{
 	color: #FF6327;
 }
 
+/* Work page */
 
+.body-text-intro{
+	text-align: center;
+}
+
+.work-body-intro{
+	text-align: center;
+	font-family: 'IBM Plex Sans', sans-serif;
+	font-size: 1.14rem;
+}
