@@ -163,3 +163,10 @@ a:hover{
 .padding-bottom{
 	padding-bottom: 2rem;
 }
+
+/* Learn page */
+
+.learn-body{
+	text-align: center;
+	font-family: 'IBM Plex Sans', sans-serif;
+}
