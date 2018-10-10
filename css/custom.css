@@ -130,4 +130,43 @@ a:hover{
 	color: #FF6327;
 }
 
+/* Work page */
 
+.body-text-intro{
+	text-align: center;
+}
+
+.work-body-intro{
+	text-align: center;
+	font-family: 'IBM Plex Sans', sans-serif;
+	font-size: 1.14rem;
+}
+
+.work-card{
+	padding-top: 1.5rem;
+	padding-bottom: 1.5rem;
+}
+
+.card-body {
+    padding-left: 10px;
+}
+
+.card:hover {
+    background-color: #FAFAFA;
+}
+
+.aiinsights-block{
+	text-align: center;
+	font-family: 'IBM Plex Sans', sans-serif;
+}
+
+.padding-bottom{
+	padding-bottom: 2rem;
+}
+
+/* Learn page */
+
+.learn-body{
+	text-align: center;
+	font-family: 'IBM Plex Sans', sans-serif;
+}
