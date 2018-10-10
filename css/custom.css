@@ -170,3 +170,13 @@ a:hover{
 	text-align: center;
 	font-family: 'IBM Plex Sans', sans-serif;
 }
+
+/*ul{
+	margin: 0;
+	padding: 0;
+}*/
+
+ul{
+	margin-left: 19px;
+	padding-left: 0px;
+}
